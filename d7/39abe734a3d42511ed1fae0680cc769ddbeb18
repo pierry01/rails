@@ -1,0 +1,28 @@
+activerecord/test/cases/scoping/default_scoping_test.rb
+  s_4ad0de4d8dd7fb::t_465cdca5cb2cec 59-73
+activerecord/CHANGELOG.md
+  s_4ad0de4d8dd7fb::t_5f558ec6869260 1-19
+activerecord/test/cases/relation/update_all_test.rb
+  s_4ad0de4d8dd7fb::t_6d7be83e62ea62 341,356-426
+activerecord/lib/active_record/persistence.rb
+  s_4ad0de4d8dd7fb::t_af191a4683fde1 133,139
+activerecord/lib/active_record/relation.rb
+  s_4ad0de4d8dd7fb::t_111068c48fb5a1 641-650,653-660,665-674,677-684
+  s_4ad0de4d8dd7fb::t_992f8e119105f2 1394-1404
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "d739abe734a3d42511ed1fae0680cc769ddbeb18",
+  "prompts": {},
+  "sessions": {
+    "s_4ad0de4d8dd7fb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "99dcfe48-7f35-40c5-80bb-b3793c0c68f6",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
